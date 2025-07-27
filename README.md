@@ -1,88 +1,85 @@
-<h1 align="left">👋 Hi, I'm Gokul Pandi</h1>
+<h1 align="center">👋 Hi, I'm Gokul Pandi</h1>
+<h3 align="center">System Engineer | Cybersecurity Enthusiast | Full Stack Developer</h3>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Madurai,%20India-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Web%20Dev-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Certifications-OCI%20AI%20Foundations-orange?style=flat-square" />
+</p>
 
-<p align="left">🚀 A passionate **System Engineer** and **Cybersecurity Enthusiast** from Madurai, India, with a strong foundation in **server administration**, **ethical hacking**, and **full-stack web development** Ui/ux Design**</p>
+---
 
-###
+### 🔍 About Me
 
-<h2 align="left">About me</h2>
+I’m a passionate **System Engineer** and **Cybersecurity Learner** from **Madurai, India**, with a strong foundation in:
 
-###
+- 🖥️ IT Infrastructure & Technical Support  
+- 🔐 Penetration Testing & Vulnerability Assessment  
+- 🌐 Full Stack Web Development (MERN)  
+- 🎨 UI/UX Design with Figma, Canva, and Adobe XD  
 
-<p align="left">🔧 2+ years of experience in **IT infrastructure, system support, and server/network troubleshooting**<br>- 🛡️ Skilled in **penetration testing**, **vulnerability assessment**, and using tools like **Nmap**, **Metasploit**, and **Burp Suite**<br>- 🌐 Built and designed multiple websites for businesses including **GYMs**, **POS systems**, and **e-learning platforms**<br>- 🎓 Currently pursuing a **Full Stack Web Development Certification** @ Cyfoxgen (Expected: June 2025)<br>- ☁️ Oracle Cloud Infrastructure AI Foundations Certified<br>- 📚 Always learning – especially in **blue team**, **cloud security**, and **ethical hacking**</p>
+---
 
-###
+### 🚀 Highlights
 
-<h2 align="left">🧰 Tech Stack & Tools</h2>
+- 🧰 **2+ years** in System Support, Networking & Server Admin  
+- 🔓 Hands-on with tools like **Nmap**, **Metasploit**, **Burp Suite**, and **Wireshark**  
+- 💻 Developed multiple websites for GYMs, POS apps & e-learning platforms  
+- 🏗️ Currently pursuing **Full Stack Dev Certification** @ Cyfoxgen *(June 2025 Expected)*  
+- ☁️ **Oracle Cloud Infrastructure - AI Foundations** Certified  
 
-###
+---
 
-<h4 align="left">Languages & Web</h4>
+### 🛠️ Tech Stack
 
-###
+**Languages & Web**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+**Cybersecurity & Tools**  
+`Nmap` · `Metasploit` · `Burp Suite` · `Wireshark` · `OWASP Top 10` · `Bash Scripting`
 
-###
+**UI/UX Design**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge)
 
-<h4 align="left">Cybersecurity & Tools</h4>
+**IT Infrastructure**  
+`Active Directory` · `Office 365` · `Linux & Windows Server` · `Firewall Configuration`
 
-###
+---
 
-<h5 align="left">`Nmap` `Burp Suite` `Wireshark` `Metasploit` `OWASP Top 10` `Bash Scripting`</h5>
+### 📌 Current Focus
 
-###
+- 🔧 Setting up a **home lab** using **TryHackMe** & **Hack The Box**
+- 🛡️ Advancing skills in **blue teaming** and **incident response**
+- 🌐 Building a **portfolio site** to showcase my cybersecurity tools & web apps
 
-<h4 align="left">Design & UI/UX</h4>
+---
 
-###
+### 📫 Let's Connect!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
-</div>
+[![Email](https://img.shields.io/badge/Email-gokulpandi1265@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulpandi1265@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-throstle1265-black?style=for-the-badge&logo=github)](https://github.com/throstle1265)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gokulpandi0666)
+[![Start.me](https://img.shields.io/badge/Start.me-Dashboard-46c293?style=for-the-badge)](https://start.me/p/vwmyMM/gokul)
 
-###
+---
 
-<h4 align="left">IT & Infrastructure:</h4>
+<details>
+<summary>📊 GitHub Stats</summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=throstle1265&show_icons=true&theme=radical" alt="Gokul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=throstle1265&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+</details>
 
-###
+---
 
-<h5 align="left">`Office 365` `Active Directory` `Windows/Linux Servers` `Networking` `Firewall Configuration`</h5>
-
-###
-
-<h2 align="left">🧠 Currently Working On</h2>
-
-###
-
-<p align="left">🔧 Improving my **penetration testing lab** using TryHackMe and Hack The Box   <br>- 🛡️ Finalizing projects for my **Full Stack Dev Certification*, <br>- 🌐 Building a portfolio website to showcase my **cybersecurity tools** and **web apps**</p>
-
-###
-
-<h2 align="left">🌐 Connect With Me</h2>
-
-###
-
- <br>✉️ Email: gokulpandi1265@gmail.com
- <br>🔗 GitHub: https://github.com/throstle1265
- <br>🔗 Linked in : www.linkedin.com/in/gokulpandi0666
- <br>🔗 Start.me: https://start.me/p/vwmyMM/gokul
+> 💡 *“Stay curious. Stay secure.”*
