@@ -82,7 +82,7 @@
 
 ###
 
- ✉️ Email: gokulpandi1265@gmail.com  
- 🔗 GitHub: https://github.com/throstle1265
- 🔗 Linked in : www.linkedin.com/in/gokulpandi0666
- 🔗 Start.me: https://start.me/p/vwmyMM/gokul
+ <br>✉️ Email: gokulpandi1265@gmail.com<\br>
+ <br>🔗 GitHub: https://github.com/throstle1265</br>
+ <br>🔗 Linked in : www.linkedin.com/in/gokulpandi0666<\br>
+ <br>🔗 Start.me: https://start.me/p/vwmyMM/gokul<\br>
